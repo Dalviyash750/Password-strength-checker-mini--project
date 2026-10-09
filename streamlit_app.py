@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd 
-from password_checker import check_password, generate_password
+from checker import check_password, generate_password
 
 st.set_page_config(
     page_title="Password Strength Checker",
