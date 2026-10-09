@@ -1,3 +1,2 @@
-# No third-party packages required - only the Python standard library is used.
-# Python 3.9+
 streamlit
+pandas
